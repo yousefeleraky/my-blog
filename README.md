@@ -48,7 +48,7 @@ Contributing
 Feel free to fork this repository and submit pull requests for any enhancements or bug fixes.
 
 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. s.
 
 Contact
 If you have any questions or suggestions, please reach out to me:
